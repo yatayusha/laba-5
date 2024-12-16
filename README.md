@@ -67,7 +67,7 @@ git commit -m "Добавлен функционал управления зад
 ```
 git flow feature finish task-management
 ```
-
+![image](finishtask.png)
 
 Git Flow автоматически переключился на ветку develop и выполнил слияние.
 
