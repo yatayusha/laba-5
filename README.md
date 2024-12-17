@@ -71,12 +71,11 @@ git flow feature finish task-management
 
 Git Flow автоматически удалил ветку feature/task-management и переключился на ветку develop:
 
-![image](bbbb.png)
+![image](finishrelease.png)
 
-7. Переключилась на ветку "develop" и начнала создание релиза:
+7. Начнала создание релиза:
 
 ```
-git checkout develop
 git flow release start v1.0.0
 ```
 
